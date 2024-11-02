@@ -12,8 +12,11 @@ public class Module3Assignment1Application {
 	public String hello() {//done by Main Branch
 	      return String.format("Hello  this is DevOps");
 	 }
-	public String welcome() {//done by Branch1
-	      return String.format("Hello  this is DevOps");
+
+	public String welcome() {//done by Branch2
+	      return String.format("Welcome to the world of DevOps");
+
+ main
 	 }
 
 }
