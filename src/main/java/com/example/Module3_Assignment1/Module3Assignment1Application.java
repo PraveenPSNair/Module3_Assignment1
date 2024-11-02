@@ -16,7 +16,7 @@ public class Module3Assignment1Application {
 	public String welcome() {//done by Branch2
 	      return String.format("Welcome to the world of DevOps");
 
- main
+
 	 }
 
 }
